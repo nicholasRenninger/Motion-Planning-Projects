@@ -1,0 +1,6 @@
+[submodule "cSpaceViz_Gradient_Wavefront_planners"]
+	path = cSpaceViz_Gradient_Wavefront_planners
+	url = https://github.com/nicholasRenninger/cSpaceViz_Gradient_Wavefront_planners
+[submodule "bugAlgorithms_and_kinematics"]
+	path = bugAlgorithms_and_kinematics
+	url = https://github.com/nicholasRenninger/bugAlgorithms_and_kinematics
