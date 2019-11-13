@@ -4,3 +4,6 @@
 [submodule "bugAlgorithms_and_kinematics"]
 	path = bugAlgorithms_and_kinematics
 	url = https://github.com/nicholasRenninger/bugAlgorithms_and_kinematics
+[submodule "AStar_and_PRM_Planning_Analysis"]
+	path = AStar_and_PRM_Planning_Analysis
+	url = https://github.com/nicholasRenninger/AStar_and_PRM_Planning_Analysis

@@ -21,3 +21,21 @@ Results of the implentation include:
 * **Wavefront planner** path visualization for a point robot in multiple enviroments, including those from the [bugAlgorithms_and_kinematics](https://github.com/nicholasRenninger/bugAlgorithms_and_kinematics) repo.
 * **C-Space visualizer for a 2-link manipulator** with arbitrary polygonal obstacles
 * **Wavefront planner** workspace path for the 2-link manipulator
+
+
+## [AStar_and_PRM_Planning_Analysis](https://github.com/nicholasRenninger/AStar_and_PRM_Planning_Analysis)
+
+Implementation of the A* and Dijkstra optimal graph search algorithms, a Fast Probabilistic Roadmap (PRM) Planner with path smoothing, and a benchmarking suite for doing parametric performance evaluation of the planners modules. 
+
+Built with a `networkx` Graph backbone and library implementations of:
+* Set-Priority Queue (based on `heapq`)
+* KDTree (based on `cKDTree`)
+* Union-Find (based on `newtorkx.util`)
+
+ADTs for speed.
+
+Results of the imlementation include:
+
+* Visualization and implementation of the **A* and Dijkstra Optimal Search Algorithms**
+* **Smoothing PRM Planner** path visualization for a point robot in multiple enviroments, including those from the [cSpaceViz_Gradient_Wavefront_planners](https://github.com/nicholasRenninger/cSpaceViz_Gradient_Wavefront_planners) repo.
+* **Benchmarking and statistical analysis / visualization** of the Smoothing PRM Planner in multiple enviroments, with the ability to do parametric studies of planner parameters.
