@@ -3,6 +3,7 @@ A repo containing all of my motion planning algorithm projects.
 
 
 ## Tool Class Hierarchy
+This diagram shows the notional, evolving class design for the underlying project framework:
 <img src="https://github.com/nicholasRenninger/Motion-Planning-Projects/blob/master/classHierarchyDiagram.png"/>
 
 ## [bugAlgorithms_and_kinematics](https://github.com/nicholasRenninger/bugAlgorithms_and_kinematics)
