@@ -2,6 +2,9 @@
 A repo containing all of my motion planning algorithm projects.
 
 
+## Tool Class Hierarchy
+<img src="https://github.com/nicholasRenninger/Motion-Planning-Projects/blob/master/classHierarchyDiagram.png"/>
+
 ## [bugAlgorithms_and_kinematics](https://github.com/nicholasRenninger/bugAlgorithms_and_kinematics)
 
 This repo contains implementations of Bug Algorithms and a Forwards / Inverse Kinematics solver for a 3-link manipulator. Results of the implentation include:
@@ -24,6 +27,8 @@ Results of the implentation include:
 
 
 ## [AStar_and_PRM_Planning_Analysis](https://github.com/nicholasRenninger/AStar_and_PRM_Planning_Analysis)
+
+
 
 Implementation of the A* and Dijkstra optimal graph search algorithms, a Fast Probabilistic Roadmap (PRM) Planner with path smoothing, and a benchmarking suite for doing parametric performance evaluation of the planners modules. 
 
